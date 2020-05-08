@@ -255,8 +255,6 @@ geom_point() + facet_wrap(~create_individual_plots_for_each_value_in_the_specifi
 
 - Created inidividual plots for each phenotype and colored the datapoints (ventral iridophore counts) by alx4a_line. There are two plots, one for the wild type phenotype and one for the mutant phenotype.  The data for the genetic lines are distinguished by color; 4bp del data is one color across both plots and 8bp insert data is another color. Can directly compare cell counts between the two genetic lines for a given phenotype to each other.  
 
--[MIGHT DELETE THIS OR TRY TO REWORD IT BETTER]This allows you to see if there are differences in cell numbers between the two genetic lines
-
 
 # Plotting Melanophore Data
 
